@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### O meu nome é Thales Mariano e sou Desenvolvedor Web - Full Stack junior!
  
- **Front-End:
+ **Front-End:**
  - *JavaScript;*
  - *HTML5;*
  - *CSS3*
  
- **Back-End:
+ **Back-End:**
  - *PHP;*
  - *MySQL*
