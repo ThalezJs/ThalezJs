@@ -1,4 +1,4 @@
-### Olá 👋
+# Olá 👋
 
 <!--
 **ThalezJs/ThalezJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-O meu nome é Thales Mariano e sou Desenvolvedor Web Full Stack junior!
+### O meu nome é Thales Mariano e sou Desenvolvedor Web - Full Stack junior!
  
- Front-End:
- - JavaScript;
- - HTML5;
- - CSS3;
+ **Front-End:**
+ - *JavaScript;*
+ - *HTML5;*
+ - *CSS3*
  
- Back-End:
- - PHP
- - MySQL
- 
+ > Só sei o basico e nem lembro direito, mas isso vai mudar.
+ **Back-End:**
+ - *PHP;*
+ - *MySQL*
