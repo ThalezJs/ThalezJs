@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### O meu nome é Thales Mariano, e sou Desenvolvedor Web Full Stack junior!
+### O meu nome é Thales Mariano, e sou Web Developer Full Stack junior!
 
 
  #### **Front-End:**
