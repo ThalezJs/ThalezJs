@@ -1,4 +1,4 @@
-## Olá! Eu sou o Thales Mariano
+## Olá! Eu sou Thales Mariano
 
 - 🤠 Web Developer Full Stack (junior)
 - 😁 Atualmente estudando Javascript
