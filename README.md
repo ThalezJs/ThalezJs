@@ -1,6 +1,9 @@
-## Olá, O meu nome é Thales Mariano, e sou Web Developer Full Stack junior!
+## Olá! Eu sou o Thales Mariano
 
-😁 - Atualmente estudando Javascript
+- 🤠 Web Developer Full Stack (junior)
+- 😁 Atualmente estudando Javascript
+
+
 
 ##
 
