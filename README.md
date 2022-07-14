@@ -1,7 +1,7 @@
 ## Olá! Eu sou Thales Mariano
 
 - 🤠 Web Developer Full Stack (junior)
-- 😁 Atualmente focado no Frond-End
+- 😁 Atualmente focado no Front-End
 
 
 
