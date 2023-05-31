@@ -1,7 +1,6 @@
 ## Olá! Eu sou Thales Mariano
 
 - 🤠 Web Developer Full Stack (junior)
-- 😁 Atualmente focado em PHP com Laravel!
 
 
 
