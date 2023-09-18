@@ -6,7 +6,7 @@
 
 ## 🚀 Minhas Skills
 <a href="https://github.com/thalesmariiano">
-  <img src="https://skillicons.dev/icons?i=vuejs,tailwindcss,html,css,javascript,laravel" />
+  <img src="https://skillicons.dev/icons?i=vuejs,tailwindcss,html,css,javascript,laravel,mysql" />
 </a>
 
 ---
