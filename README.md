@@ -1,6 +1,6 @@
 ## 👋🏽 Olá, meu nome é <strong>Thales Mariano!</strong>
 
-📣 Atualmente em busca da minha primeira vaga e desenvolvendo o meu jogo: <a href="https://github.com/thalesmariiano/shoot-and-slash">Shoot And Slash</a>.
+📣 Atualmente trabalhando como Desenvolvedor Web Front-End freelancer. E desenvolvendo o meu jogo: <a href="https://github.com/thalesmariiano/shoot-and-slash">Shoot And Slash</a>.
 
 ---
 
